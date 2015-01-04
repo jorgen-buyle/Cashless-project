@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Info";
+}
+
+<h2>Info</h2>
+
+<table style="width:100%">
+    <tr>
+        <th width="100px">Kassa naam</th>
+        <td>@ViewBag.kas.RegisterName</td>
+    </tr>
+    <tr>
+        <th width="160px">Toestel</th>
+        <td>@ViewBag.kas.Device</td>
+    </tr>
+    <tr>
+        <th width="105px">Aankoop datum</th>
+        <td>@ViewBag.kas.PurchesData</td>
+    </tr>
+    <tr>
+        <th width="160px">Verloop datum</th>
+        <td>@ViewBag.kas.ExpiresDate</td>
+    </tr>
+</table>
+<p></p>
+<p>plaats een kassa naar vereniging</p>
+@using (Html.BeginForm())
+{ 
+    <select name="verId" id="verId" style="width:250px;">
+        @foreach (var item in ViewBag.ver)
+        {
+            <option id="@item.Id" value="@item.Id">@item.VerenigingNaam</option>
+        }  
+    </select>
+    <input type="hidden" value="@ViewBag.kas.Id" name="kasId" id="kasId" />
+    <div class="form-group">
+        <div style=" margin-top: 15px;">
+            <input type="submit" value="Save" class="btn btn-default" />
+        </div>
+    </div>
+}
+<a href="/kassa/Logboek?Id=@ViewBag.kas.Id">show error log</a>

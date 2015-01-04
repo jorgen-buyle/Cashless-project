@@ -1,0 +1,15 @@
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\bin\Debug\cashless project.exe.config
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\bin\Debug\cashless project.exe
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\bin\Debug\cashless project.pdb
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\cashless project.csprojResolveAssemblyReference.cache
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MainWindow.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MainWindow.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\App.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\cashless project_MarkupCompile.cache
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\cashless project.g.resources
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\cashless_project.Properties.Resources.resources
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\cashless project.csproj.GenerateResource.Cache
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\cashless project.exe
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\cashless project.pdb
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MainMenu.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MainMenu.g.cs

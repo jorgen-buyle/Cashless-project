@@ -1,0 +1,30 @@
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MenuMedewerkers.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MedewerkerWijzigen.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\NieuweMedewerker.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\NieuwProduct.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\DetailVensterProduct.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MainMenu.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MainWindow.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MenuPaswoordVerander.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MenuProducten.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\ProductVerwijder.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MenuMedewerkers.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MedewerkerWijzigen.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\NieuweMedewerker.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\NieuwProduct.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\DetailVensterProduct.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MainMenu.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MainWindow.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MenuPaswoordVerander.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\MenuProducten.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\ProductVerwijder.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\App.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\cashless project_MarkupCompile.cache
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\cashless project.g.resources
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\cashless_project.Properties.Resources.resources
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\cashless project Management.csproj.GenerateResource.Cache
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\bin\Debug\cashless project.exe.config
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\bin\Debug\cashless project.exe
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\bin\Debug\cashless project.pdb
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\cashless project.exe
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project\obj\Debug\cashless project.pdb

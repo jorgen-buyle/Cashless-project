@@ -1,0 +1,85 @@
+﻿<UserControl x:Class="nmctBaWPF1.view.MenuMedewerker"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:vm="clr-namespace:nmctBaWPF1.viewmodel"
+             xmlns:mod="clr-namespace:nmctBaWPF1.Models"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="600">
+    <UserControl.Resources>
+        <mod:MedewerkerInfo x:Key="medewerkerinfo"/>
+        <ItemsPanelTemplate x:Key="penalTemplate">
+            <WrapPanel/>
+        </ItemsPanelTemplate>  
+        <DataTemplate x:Key="medewerker" >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="60"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Name="txbStraat" Text="{Binding EmployeeName}"/>
+                
+                
+            </Grid>
+        </DataTemplate>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="medewerkers" Margin="5" />
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="60"/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="ID" HorizontalAlignment="Center"/>
+            <TextBlock Text="naam" Grid.Column="1" HorizontalAlignment="Center"/>
+            <TextBlock Text="addres" Grid.Column="2" HorizontalAlignment="Center"/>
+            <TextBlock Text="email" Grid.Column="3" HorizontalAlignment="Center"/>
+            <TextBlock Text="telefoon" Grid.Column="4" HorizontalAlignment="Center"/>
+            
+
+
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="100" />
+
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Button Content="nieuwe werknemer" Margin="5" Grid.Column="0" Name="btnNieuw"/>
+            <Button Content="wijzigen" Margin="5" Grid.Column="1" Name="btnWijzig" />
+            <Button Content="terug" Margin="5" Grid.Column="2" Name="btnTerug" />
+
+        </Grid>
+    </Grid>
+</UserControl>

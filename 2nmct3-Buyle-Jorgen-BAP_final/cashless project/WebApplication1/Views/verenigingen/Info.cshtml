@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewBag.Title = "Info";
+}
+
+<h2>Info</h2>
+<h3>vereniging info</h3>
+<table>
+   
+        <tr>
+            <th>Vereniging naam:</th>
+            <td>@ViewBag.ver.VerenigingNaam</td>
+        </tr>
+        <tr>
+            <th>straat en nummer:</th>
+            <td>@ViewBag.ver.StraatNr</td>
+        </tr>
+        <tr>
+            <th>straat en Postcode:</th>
+            <td>@ViewBag.ver.Postcode</td>
+
+        </tr>
+        <tr>
+            <th>Locatie: </th>
+            <td>@ViewBag.ver.Locatie</td>
+        </tr>
+        <tr>
+            <th>Email:</th>
+            <td>@ViewBag.ver.Email</td>
+        </tr>
+        <tr>
+            <th>Telefoon:</th>
+            <td>@ViewBag.ver.Telefoon</td>
+        </tr>
+</table>
+<h3>kassa's</h3>
+<table >
+    <tr style=" border-top:solid 1px black">
+        <th width="220px">RegisterName</th>
+        <th width="160px">Device</th>
+        <th width="105px">FromData</th>
+        <th width="160px">UntilData</th>
+        <th width="80px"></th>
+    </tr>
+    @foreach (var zelf in ViewBag.kvm)
+    {
+        <tr style=" border-top:solid 1px black">
+            <td>@zelf.RegisterName</td>
+            <td>@zelf.Device</td>
+            <td>@zelf.FromData</td>
+            <td>@zelf.UntilData</td>
+            <td><a href="/verenigingen/Verwijder?id=@zelf.Id">Verwijder uit vereniging</a></td>    
+        </tr>
+    }
+</table>
+
+<p><a href="/verenigingen/Index">Terug</a></p>

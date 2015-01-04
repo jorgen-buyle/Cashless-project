@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="nmctBaWPF1.view.Menu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             xmlns:vm="clr-namespace:nmctBaWPF1.viewmodel"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.DataContext>
+        <vm:MenuVM/>
+    </UserControl.DataContext>
+    <StackPanel Margin="10px">
+        <Button x:Name="btn1" Content="beheer producten" Margin="0px 5px 0px 0px" Command="{Binding ProductenCommand}"/>
+        <Button x:Name="btn2" Content="medewerkers" Margin="0px 5px 0px 0px" Command="{Binding MedewerkerCommand}"/>
+        <Button x:Name="btn3" Content="beheer kassa's" Margin="0px 5px 0px 0px" Command="{Binding KassaCommand}"/>
+        <Button x:Name="btn4" Content="beheer klanten" Margin="0px 5px 0px 0px" Command="{Binding KlantenCommand}"/>
+        <Button x:Name="btn5" Content="wijzig paswoord" Margin="0px 5px 0px 0px" Command="{Binding WijzigPasCommand}"/>
+        <Button x:Name="btn6" Content="Uitloggen" Margin="0px 5px 0px 0px" Command="{Binding LoguitCommand}"/>
+    </StackPanel>
+</UserControl>

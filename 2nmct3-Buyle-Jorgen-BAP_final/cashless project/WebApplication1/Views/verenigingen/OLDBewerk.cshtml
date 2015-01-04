@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Bewerk";
+}
+
+<h2>Bewerk</h2>
+@using (Html.BeginForm())
+{ 
+<table>
+    <tr>
+        <th>Vereniging naam:</th>
+        
+        <td><input type="text" value="@ViewBag.ver.VerenigingNaam" /></td>
+    </tr>
+    <tr>
+        <th>straat en nummer:</th>
+        <td>@ViewBag.ver.StraatNr</td>
+    </tr>
+    <tr>
+        <th>straat en Postcode:</th>
+        <td>@ViewBag.ver.Postcode</td>
+
+    </tr>
+    <tr>
+        <th>Locatie: </th>
+        <td>@ViewBag.ver.Locatie</td>
+    </tr>
+    <tr>
+        <th>Email:</th>
+        <td>@ViewBag.ver.Email</td>
+    </tr>
+    <tr>
+        <th>Telefoon:</th>
+        <td>@ViewBag.ver.Telefoon</td>
+    </tr>
+    <tr>
+        <td height="20px"> </td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td><input type="submit" value="Update" class="btn btn-default" /></td>
+        <td>@Html.ActionLink("Back to List", "Index")</td>
+    </tr>
+</table>
+}

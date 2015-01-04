@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "webAPINmctTemplate1\WebApi.csproj", "{5382CEA2-FADA-4DD7-B8C6-AFD9B0DFD961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cashless project ClassLib", "cashless project ClassLib\cashless project ClassLib.csproj", "{4AAC3182-56DF-4F1F-9D89-E22D04DE11D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cashless project management", "nmctBaWPF1\cashless project management.csproj", "{A0FDA15F-EC9F-487E-8D66-A3E511E58088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cashless project kassas", "cashless project kassas\cashless project kassas.csproj", "{48DCF63E-1D3C-4BB5-B329-E27998BD9932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cashless project klanten", "cashless project klanten\cashless project klanten.csproj", "{0CAD1FED-C54A-4D60-B74E-51D509ED9C0F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{14A1A871-F706-4541-9A4E-6DCBEA61A2AA}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cashless project ITBedrijf", "WebApplication1\cashless project ITBedrijf.csproj", "{F84688D3-8CFE-4006-BF54-05617A6E0087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5382CEA2-FADA-4DD7-B8C6-AFD9B0DFD961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5382CEA2-FADA-4DD7-B8C6-AFD9B0DFD961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5382CEA2-FADA-4DD7-B8C6-AFD9B0DFD961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5382CEA2-FADA-4DD7-B8C6-AFD9B0DFD961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AAC3182-56DF-4F1F-9D89-E22D04DE11D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAC3182-56DF-4F1F-9D89-E22D04DE11D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAC3182-56DF-4F1F-9D89-E22D04DE11D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAC3182-56DF-4F1F-9D89-E22D04DE11D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0FDA15F-EC9F-487E-8D66-A3E511E58088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FDA15F-EC9F-487E-8D66-A3E511E58088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FDA15F-EC9F-487E-8D66-A3E511E58088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FDA15F-EC9F-487E-8D66-A3E511E58088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DCF63E-1D3C-4BB5-B329-E27998BD9932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DCF63E-1D3C-4BB5-B329-E27998BD9932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DCF63E-1D3C-4BB5-B329-E27998BD9932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DCF63E-1D3C-4BB5-B329-E27998BD9932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CAD1FED-C54A-4D60-B74E-51D509ED9C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAD1FED-C54A-4D60-B74E-51D509ED9C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CAD1FED-C54A-4D60-B74E-51D509ED9C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CAD1FED-C54A-4D60-B74E-51D509ED9C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F84688D3-8CFE-4006-BF54-05617A6E0087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84688D3-8CFE-4006-BF54-05617A6E0087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84688D3-8CFE-4006-BF54-05617A6E0087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84688D3-8CFE-4006-BF54-05617A6E0087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

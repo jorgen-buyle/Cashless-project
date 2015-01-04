@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<table style="width:100%">
+    <tr style=" border-top:solid 1px black">
+        <th width="220px">Kassa naam</th>
+        <th width="160px">Toestel</th>
+        <th width="105px">Aankoop datum</th>
+        <th width="160px">Verloop datum</th>
+        <th width="80px"></th>
+    </tr>
+    @foreach (var zelf in ViewBag.kas)
+    {
+        <tr style=" border-top:solid 1px black">
+            <td>@zelf.RegisterName</td>
+            <td>@zelf.Device</td>
+            <td>@zelf.PurchesData</td>
+            <td>@zelf.ExpiresDate</td>
+            <td><a href="/kassa/Info?id=@zelf.Id">Details</a>
+        </tr>
+    }
+</table>
+<a href="/kassa/NewKassa">nieuwe kassa</a>

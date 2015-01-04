@@ -1,0 +1,5 @@
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project ClassLib\obj\Debug\cashless project ClassLib.csprojResolveAssemblyReference.cache
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project ClassLib\bin\Debug\cashlessProjectClassLib.dll
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project ClassLib\bin\Debug\cashlessProjectClassLib.pdb
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project ClassLib\obj\Debug\cashlessProjectClassLib.dll
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project ClassLib\obj\Debug\cashlessProjectClassLib.pdb

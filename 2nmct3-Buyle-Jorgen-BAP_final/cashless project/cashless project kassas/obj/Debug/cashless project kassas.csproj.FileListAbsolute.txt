@@ -1,0 +1,36 @@
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\cashless project kassas.exe.config
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\cashless project kassas.exe
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\cashless project kassas.pdb
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\cashless project kassas.csproj.App.config
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\view\MainWindow.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\view\PageOne.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\App.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\cashless project kassas_MarkupCompile.cache
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\cashless project kassas_MarkupCompile.lref
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\view\MainWindow.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\view\PageOne.baml
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\cashless project kassas.g.resources
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\cashless_project_kassas.Properties.Resources.resources
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\cashless project kassas.csproj.GenerateResource.Cache
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\cashless project kassas.exe
+C:\Users\Jorgen\Desktop\school 2de jaar\semester 3\business applications\labo\AAA PROJECT EINDE SEMESTER\cashless project\cashless project kassas\obj\Debug\cashless project kassas.pdb

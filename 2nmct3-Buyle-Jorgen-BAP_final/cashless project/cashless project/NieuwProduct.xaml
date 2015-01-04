@@ -1,0 +1,30 @@
+﻿<Window x:Class="cashless_project.NieuwProduct"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Nieuw product" Height="350" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="id:" Margin="5" Height="25" Grid.Column="0" Grid.Row="0"/>
+        <TextBox Text="plaatsvuller:" Margin="5" Height="25" Grid.Column="1" Grid.Row="0"/>
+        <TextBlock Text="product:" Margin="5" Height="25" Grid.Column="0" Grid.Row="1"/>
+        <TextBox Text="plaatsvuller:" Margin="5" Height="25" Grid.Column="1" Grid.Row="1"/>
+        <TextBlock Text="prijs:" Margin="5" Height="25" Grid.Column="0" Grid.Row="2"/>
+        <TextBox Text="plaatsvuller:" Margin="5" Height="25" Grid.Column="1" Grid.Row="2"/>
+        <TextBlock Text="category:" Margin="5" Height="25" Grid.Column="0" Grid.Row="3"/>
+        <ComboBox  Margin="5" Height="25" Grid.Column="1" Grid.Row="3"/>
+        
+        <Button Grid.Column="0" Grid.Row="5" Content="opslaan" Name="btnOpslaan" Margin="5"/>
+        <Button Grid.Column="1" Grid.Row="5" Content="terug" Name="btnTerug" Margin="5"/>
+    </Grid>
+</Window>

@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="cashless_project_kassas.view.PageOne"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:vm="clr-namespace:cashless_project_kassas.viewmodel"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300"
+             
+             >
+    <UserControl.DataContext>
+        <vm:PageOneVM/>
+    </UserControl.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox Margin="8" ItemsSource="{Binding BankAccounts}" DisplayMemberPath="AccountHolder" SelectedItem="{Binding Sender}" />
+        <StackPanel Grid.Column="1" Margin="8">
+            <TextBlock Text="Account number:"/>
+            <TextBlock FontWeight="Bold" Text="{Binding Sender.AccountNumber}"/>
+            <TextBlock Text="Balance:"/>
+            <TextBlock FontWeight="Bold" Text="{Binding Sender.Balance}" Margin="0,0,0,32"/>
+            <TextBlock Text="Transfer money to:"/>
+            <ComboBox ItemsSource="{Binding BankAccounts}" DisplayMemberPath="AccountHolder" SelectedItem="{Binding Receiver}" Margin="0,0,0,8"/>
+            <TextBlock Text="Amount to transfer:"/>
+            <TextBox Text="{Binding Amount, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,8"/>
+            <Button Content="Transfer" Command="{Binding DoTransactionCommand}"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

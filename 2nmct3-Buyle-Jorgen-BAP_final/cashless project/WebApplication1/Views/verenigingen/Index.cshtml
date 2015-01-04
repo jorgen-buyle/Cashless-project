@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Verenigingen</h2>
+
+<table style="width:100%">
+    <tr style=" border-top:solid 1px black">
+        <th width="220px">Naam</th>
+        <th width="160px">Straat en Nr</th>
+        <th width="105px">Postcode</th>
+        <th width="160px">Plaats</th>
+        <th width="280px">Email</th>
+        <th width="135px">Telefoon</th>
+        <th width="80px"></th>
+    </tr>
+    @foreach (var zelf in ViewBag.ver)
+    {
+        <tr style=" border-top:solid 1px black">
+            <td>@zelf.VerenigingNaam</td>
+            <td>@zelf.StraatNr</td>
+            <td>@zelf.Postcode</td>
+            <td>@zelf.Locatie</td>
+            <td>@zelf.Email</td>
+            <td>@zelf.Telefoon</td>
+            <td><a href="/verenigingen/Info?id=@zelf.Id">Details</a> <a href="/verenigingen/Bewerk?id=@zelf.Id">Bewerk</a></td>
+        </tr>
+    }
+</table>
+

@@ -1,0 +1,21 @@
+﻿<Window x:Class="cashless_project.ProductVerwijder"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Product Verwijder" Height="150" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        
+        <TextBlock Text=" weet u zeker dat u product X wilt verwijderen" TextWrapping="Wrap" Grid.ColumnSpan="2" Height="20" HorizontalAlignment="Center" TextAlignment="Center"/>
+        
+        <Button Grid.Row="1" Grid.Column="0" Margin="5" Name="btnJa" Content="Ja" />
+        <Button Grid.Row="1" Grid.Column="1" Margin="5" Name="btnCancel" Content="cancel" />
+
+    </Grid>
+</Window>
